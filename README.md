@@ -19,4 +19,6 @@ We used NEWTON's METHOD to be able to compute very complex functions. (ex. y=3x^
 
 Apply number of products (x) on AR and AC, and substract cost from revenue.
 
-We found the maximum profit.(and also the number of products to achieve it)
+Finally, we found the maximum profit.(and also the number of products to achieve it)
+
+If you also want to find the best price for each products, use your average revenue formula (press "p") with the number of products we found.
