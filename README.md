@@ -1,7 +1,7 @@
 # Dem-Profits
-Find the best price and number of product to achieve maximum profits with your product through formulas.
+Find the best price and number of product to achieve maximum profits with your product through formulas. (use "max" for this)
 
-By inputting the formulas of average cost and revenue (or mc and mr), you can find the optimal price for your product.
+By inputting the formulas of average cost and revenue, you can find the optimal price/expected cost for your product. (use "p", "c", "mr" or "mc" for this)
 
 
 Uses equilibrium logic from microeconomics.
