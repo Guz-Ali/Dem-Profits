@@ -13,7 +13,9 @@ Given the formulas of Average Price and Average Cost, program finds the Marginal
 
 Since our maximum profit will be at MR=MC, turn this into a function. MR-MC=0
 
-Using NEWTON'S THEOREM of Finding Roots, find the root. What we find here is the number of products. (our x number in the function)
+Using NEWTON'S METHOD of Finding Roots, find the root. What we find here is the number of products. (our x number in the function)
+
+We used NEWTON's METHOD to be able to compute very complex functions. (ex. y=3x^5+1400x^4-55x^3+200, note: this is not an actual formula)
 
 Apply number of products (x) on AR and AC, and substract cost from revenue.
 
