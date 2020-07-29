@@ -1,6 +1,6 @@
 # Dem-Profits
 
-Which function do you want to input? AR, MR, AC, MC
+Which function do you want to input? AR, MR, AC, MC       (Able to compute up to x^20 complexity.)
 
 If you have functions in, you can also look through them. SEARCH
 
@@ -8,12 +8,13 @@ Find the best amount of products, best price, maximum profit. MAX
 
 You can quit by typing QUIT
 
+<...>
 
 Input the formulas of average revenue (AR), marginal revenue (MR), average cost (AC), marginal cost (MC). Now you can use these functions on MAX.
 
-Find the best price and number of product to achieve maximum profits with your product through formulas. (use "max" for this)
-Select the formulas you want to use.
+Find the best price and number of product to achieve maximum profits with your product through formulas. (use "max" for this)   Then, select the formulas you want to use.
 
+<...>
 
 Uses equilibrium logic from microeconomics.
 
