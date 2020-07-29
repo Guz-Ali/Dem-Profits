@@ -1,8 +1,11 @@
 # Dem-Profits
 
 Which function do you want to input? AR, MR, AC, MC
+
 If you have functions in, you can also look through them. SEARCH
+
 Find the best amount of products, best price, maximum profit. MAX
+
 You can quit by typing QUIT
 
 
